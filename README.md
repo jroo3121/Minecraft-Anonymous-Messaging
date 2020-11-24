@@ -7,4 +7,4 @@
 A Minecraft Spigot Plugin that allows you to send anonymous messages!
 Players with permission "am.use" and the console may excecute this command
     <p>
-Syntax: /am &#60player &#60message
+Syntax: /am &#60player&#62 &#60message&#62
