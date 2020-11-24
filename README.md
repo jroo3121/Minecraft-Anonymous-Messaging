@@ -5,6 +5,6 @@
   <a href="https://google.com">Official Page</a>
   <p>
 A Minecraft Spigot Plugin that allows you to send anonymous messages!
-Players with permission "am.use" and the console may excecute this command. 
+Only players with permission "am.use" and the console may excecute this command. 
     <p>
 Syntax: /am &#60player&#62 &#60message&#62
