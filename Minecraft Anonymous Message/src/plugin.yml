@@ -1,0 +1,7 @@
+name: AnonymousMessaging
+version: 1.0
+author: Jrooairle
+main: me.jrooairle.am.Main
+
+commands:
+  am:
